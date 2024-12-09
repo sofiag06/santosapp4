@@ -144,7 +144,7 @@ function App() {
             <div className="biography">
               <h3>Biografía</h3>
               <p>{saintInfo.biography}</p>
-              <p className="source">Fuente: Wikipedia</p>
+              <p className="source">Fuente: Equipo Encuentro, Wikipedia , Vatican News, EWTN</p>
             </div>
             <div className="prayer-section">
               <h3>Oración</h3>
